@@ -3,3 +3,4 @@ openpyxl == 3.1.2
 gTTS == 2.5.1
 pandas==2.1.2
 SQLAlchemy==2.0.32
+mysql-connector==2.2.9
